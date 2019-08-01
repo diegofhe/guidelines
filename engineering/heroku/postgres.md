@@ -6,9 +6,11 @@ Ex. `PRODUCTION` to `STAGING`:
 
 Restoring the db is way faster than pg:pull or pg:copy.
 
-1. ```heroku pg:backups restore `heroku pg:backups public-url --app app-production` HEROKU_POSTGRESQL_BRONZE_URL --app app-staging```
+1. Make a fresh backup from the source in the Heroku's Postgres dashboard ("durability" tab)
 
-2. `heroku run rake db:migrate --app app-staging`
+2. ```heroku pg:backups restore `heroku pg:backups public-url --app app-production` HEROKU_POSTGRESQL_BRONZE_URL --app app-staging```
+
+3. `heroku run rake db:migrate --app app-staging`
 
 ### Using `pg:copy`
 
