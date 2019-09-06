@@ -12,10 +12,19 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
 
 - [PRs (Pull Requests)](engineering/git/PRs.md)
 - [Semantic Commits](engineering/git/commits.md)
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - [Git Workflow (basic)](https://github.com/benoror/guides/blob/master/git/workflow.md)
 - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Tools - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+
+#### Code Reviews
+
+- [Why review code?](https://sophiebits.com/2018/12/25/why-review-code.html)
+- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
+  - [Part Two](https://mtlynch.io/human-code-reviews-2/)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+- [More Effective Code Reviews](https://medium.com/make-better-software/more-effective-code-reviews-49e6998effe2)
+- [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+- [Pull requests and code review](https://confluence.atlassian.com/bitbucket/pull-requests-and-code-review-223220593.html)
 
 ### Heroku
 
