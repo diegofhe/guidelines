@@ -12,6 +12,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
 
 - [PRs (Pull Requests)](engineering/git/PRs.md)
 - [Semantic Commits](engineering/git/commits.md)
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 - [Git Workflow (basic)](https://github.com/benoror/guides/blob/master/git/workflow.md)
 - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Tools - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
